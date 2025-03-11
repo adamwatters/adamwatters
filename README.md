@@ -1,6 +1,6 @@
 ## Adam here - thanks for visiting 👋
 
-Currently - I'm working on building tools on top of LLMs. 
+Currently - I'm in the lab 🧪 building tools on top of LLMs. Specifically interested in driving web browsers to build data sets from sources that are too messy for traditional scraping tools (WIP example: (phdlist.ai)[https://phdlist.ai/])
 
 Some of what I've worked on in the past:
 - games - Godot, SwiftUI
