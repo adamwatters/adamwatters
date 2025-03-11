@@ -5,7 +5,7 @@ Currently - I'm in the lab 🧪 building tools on top of LLMs.
 I'm working on two things in particular:
 - driving web browsers to build data sets from sources that are too messy for traditional scraping tools (WIP example: [phdlist.ai](https://phdlist.ai/)).
 - game creation tools with a balance of prebuilt structure and room for an LLM to make edits
-
+---
 My Preferred Stacks:
 #### Web
 Backend: Node.js, NGINX, usually hosted on DigitalOcean
