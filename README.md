@@ -1,6 +1,7 @@
 ## Adam here - thanks for visiting 👋
 
 Engineer / Designer / Game Dev
+
 Web, iOS, visionOS, Godot
 
 Currently in the lab 🧪 building tools on top of LLMs.
