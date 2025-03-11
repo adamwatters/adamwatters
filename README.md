@@ -8,15 +8,15 @@ I'm working on two things in particular:
 ---
 Preferred Tech:
 #### Web
-Backend: Node.js behind NGINX, usually hosted on DigitalOcean. Recently, Supabase. 
-Apps: Typescript, React, ReactRouter, Tailwind, Zustand, Vite
-Websites: Next.js
+- Backend: Node.js behind NGINX, usually hosted on DigitalOcean. Recently, Supabase. 
+- Apps: Typescript, React, ReactRouter, Tailwind, Zustand, Vite
+- Websites: Next.js
 
 #### Games & Mobile
-Backend: Firebase
-iOS: SwiftUI, RealityKit
-games: Godot Game Engine
-visionOS: SwiftUI + [GodotVision](https://github.com/kevinw/GodotVision)
+- Backend: Firebase
+- iOS: SwiftUI, RealityKit
+- games: Godot Game Engine
+- visionOS: SwiftUI + [GodotVision](https://github.com/kevinw/GodotVision)
 
 <!--
 **adamwatters/adamwatters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
