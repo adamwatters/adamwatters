@@ -1,4 +1,11 @@
-## Hi there 👋
+## Adam here - thanks for visiting 👋
+
+Currently - I'm working on building tools on top of LLMs. 
+
+Some of what I've worked on in the past:
+- games - Godot, SwiftUI
+- mobile creative tools - SwiftUI, Scenekit
+- many many websites
 
 <!--
 **adamwatters/adamwatters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
