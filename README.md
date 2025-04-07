@@ -1,4 +1,4 @@
-## Adam here - thanks for visiting 👋
+## Adam Watters
 
 Engineer / Designer / Game Dev
 
